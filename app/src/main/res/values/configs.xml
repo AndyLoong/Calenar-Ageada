@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- when on, shows the event next to the agenda list,
+     when off, shows the event on top of the agenda list after it was clicked. -->
+    <bool name="show_event_details_with_agenda">false</bool>
+    <!--  A global var used to tablet vs phone settings -->
+    <bool name="tablet_config">false</bool>
+
+</resources>

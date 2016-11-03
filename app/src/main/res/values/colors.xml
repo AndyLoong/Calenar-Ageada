@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="agenda_list_separator_color">#FFBBBBBB</color>
+    <color name="agenda_item_standard_color">#FF333333</color>
+    <color name="agenda_item_where_text_color">#FF666666</color>
+    <color name="agenda_day_bar_background_color">#FFFFFFFF</color>
+    <color name="agenda_past_present_separator_color">#FF333333</color>
+    <color name="agenda_day_item_text_color">#FF666666</color>
+    <color name="agenda_item_not_selected">#00000000</color>
+    <!-- Text color of a selected items in the agenda list - trumps all other text colors -->
+    <color name="agenda_selected_background_color">@android:color/holo_blue_dark</color>
+    <color name="agenda_selected_text_color">#FFFFFFFF</color>
+    <color name="calendar_date_banner_background">#FFEEEEEE</color>
+
+</resources>
